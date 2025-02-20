@@ -10,17 +10,17 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
+  "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 4
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tokenomics",
-    "permalink": "/docs/audits"
+    "title": "Introduction",
+    "permalink": "/docs/Introduction"
   },
   "next": {
     "title": "Blockchain & Technology",
-    "permalink": "/docs/tokenomics"
+    "permalink": "/docs/Blockchain"
   }
 }

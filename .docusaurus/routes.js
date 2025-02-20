@@ -39,19 +39,19 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '5d5'),
+    component: ComponentCreator('/docs', '803'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'cf4'),
+        component: ComponentCreator('/docs', '38b'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'c42'),
+            component: ComponentCreator('/docs', 'cbe'),
             routes: [
               {
-                path: '/docs/audits',
-                component: ComponentCreator('/docs/audits', '342'),
+                path: '/docs/Blockchain',
+                component: ComponentCreator('/docs/Blockchain', 'afd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -62,20 +62,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/ico',
-                component: ComponentCreator('/docs/ico', 'c41'),
+                path: '/docs/Disclaimer',
+                component: ComponentCreator('/docs/Disclaimer', '3e3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', '61d'),
+                path: '/docs/Introduction',
+                component: ComponentCreator('/docs/Introduction', '7bf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/technology',
-                component: ComponentCreator('/docs/technology', '15a'),
+                path: '/docs/Roadmapp',
+                component: ComponentCreator('/docs/Roadmapp', '03e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

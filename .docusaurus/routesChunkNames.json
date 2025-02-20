@@ -42,38 +42,38 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/docs-5d5": {
+  "/docs-803": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-cf4": {
+  "/docs-38b": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-c42": {
+  "/docs-cbe": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/audits-342": {
+  "/docs/Blockchain-afd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-auditsa-37-ffd"
+    "content": "content---docs-blockchainf-51-e76"
   },
   "/docs/coin-fa4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-coin-1-e-2-7ea"
   },
-  "/docs/ico-c41": {
+  "/docs/Disclaimer-3e3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ico-2-d-6-f90"
+    "content": "content---docs-disclaimercdf-e28"
   },
-  "/docs/intro-61d": {
+  "/docs/Introduction-7bf": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "content": "content---docs-introductione-0-a-085"
   },
-  "/docs/technology-15a": {
+  "/docs/Roadmapp-03e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-technology-75-e-b87"
+    "content": "content---docs-roadmapp-32-c-b2a"
   },
   "/docs/tokenomics-ac0": {
     "__comp": "__comp---theme-doc-item-178-a40",

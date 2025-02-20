@@ -8,11 +8,11 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "Introduction",
           "docs": [
             {
-              "id": "audits",
-              "path": "/docs/audits",
+              "id": "Blockchain",
+              "path": "/docs/Blockchain",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -21,18 +21,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "ico",
-              "path": "/docs/ico",
+              "id": "Disclaimer",
+              "path": "/docs/Disclaimer",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "intro",
-              "path": "/docs/intro",
+              "id": "Introduction",
+              "path": "/docs/Introduction",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "technology",
-              "path": "/docs/technology",
+              "id": "Roadmapp",
+              "path": "/docs/Roadmapp",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -45,8 +45,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/docs/Introduction",
+                "label": "Introduction"
               }
             }
           }

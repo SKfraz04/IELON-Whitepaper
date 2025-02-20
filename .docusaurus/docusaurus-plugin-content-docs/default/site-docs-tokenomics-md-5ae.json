@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Token Details",
-    "permalink": "/docs/coin"
+    "title": "Roadmap",
+    "permalink": "/docs/Roadmapp"
   },
   "next": {
-    "title": "Roadmap",
-    "permalink": "/docs/ico"
+    "title": "Disclaimer",
+    "permalink": "/docs/Disclaimer"
   }
 }
