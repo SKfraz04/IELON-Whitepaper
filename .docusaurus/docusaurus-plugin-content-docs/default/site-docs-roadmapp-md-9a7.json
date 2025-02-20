@@ -1,0 +1,22 @@
+{
+  "id": "roadmapp",
+  "title": "🗺️ ROADMAP",
+  "description": "Year 1: Foundation & Launch (2024 - 2025)",
+  "source": "@site/docs/roadmapp.md",
+  "sourceDirName": ".",
+  "slug": "/roadmapp",
+  "permalink": "/docs/roadmapp",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Roadmap",
+    "permalink": "/docs/ico"
+  }
+}

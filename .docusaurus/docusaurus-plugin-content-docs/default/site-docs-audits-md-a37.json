@@ -1,0 +1,26 @@
+{
+  "id": "audits",
+  "title": "Tokenomics",
+  "description": "| Category                  | Allocation |",
+  "source": "@site/docs/audits.md",
+  "sourceDirName": ".",
+  "slug": "/audits",
+  "permalink": "/docs/audits",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/technology"
+  },
+  "next": {
+    "title": "Token Details",
+    "permalink": "/docs/coin"
+  }
+}

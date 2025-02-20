@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "audits",
+              "path": "/docs/audits",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "coin",
+              "path": "/docs/coin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ico",
+              "path": "/docs/ico",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "technology",
+              "path": "/docs/technology",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tokenomics",
+              "path": "/docs/tokenomics",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

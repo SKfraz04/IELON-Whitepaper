@@ -1,0 +1,26 @@
+{
+  "id": "tokenomics",
+  "title": "Blockchain & Technology",
+  "description": "Why Solana?",
+  "source": "@site/docs/tokenomics.md",
+  "sourceDirName": ".",
+  "slug": "/tokenomics",
+  "permalink": "/docs/tokenomics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Token Details",
+    "permalink": "/docs/coin"
+  },
+  "next": {
+    "title": "Roadmap",
+    "permalink": "/docs/ico"
+  }
+}

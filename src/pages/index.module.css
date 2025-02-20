@@ -1,0 +1,38 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+ .heroBanner {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.heroBanner img {
+  animation: rotateInfinite 3s linear infinite; /* Infinite rotation animation */
+}
+
+/* Define the infinite rotation animation */
+@keyframes rotateInfinite {
+  from {
+    transform: rotate(0deg); /* Start from 0 degrees */
+  }
+  to {
+    transform: rotate(360deg); /* End at 360 degrees */
+  }
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

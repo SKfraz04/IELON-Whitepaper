@@ -1,0 +1,26 @@
+{
+  "id": "market-opportunity/airlines-industry",
+  "title": "✈️ Airlines Industry Revolution",
+  "description": "The traditional real estate industry faces challenges with fragmented property listings, complex transaction processes, and limited accessibility for global investors. REALT is revolutionizing this space by introducing a blockchain-based platform that tokenizes real estate assets, enabling fractional ownership, transparent transactions, and seamless cross-border investments. Through smart contracts and decentralized technology, REALT makes property investment more accessible, liquid, and efficient for investors worldwide.",
+  "source": "@site/docs/market-opportunity/airlines-industry.md",
+  "sourceDirName": "market-opportunity",
+  "slug": "/market-opportunity/airlines-industry",
+  "permalink": "/docs/market-opportunity/airlines-industry",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌟 Core Offerings",
+    "permalink": "/docs/market-opportunity/core-offerings"
+  },
+  "next": {
+    "title": "💻 Technology and Architecture",
+    "permalink": "/docs/technology"
+  }
+}

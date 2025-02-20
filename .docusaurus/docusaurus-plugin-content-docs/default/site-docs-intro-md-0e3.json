@@ -1,0 +1,22 @@
+{
+  "id": "intro",
+  "title": "Disclaimer",
+  "description": "Inspector Elon (IELON), including but not limited to the overall project, token, website, smart contracts, and any applications (\"IELON\") as presented in this conceptual paper, is not a licensed, unlicensed, or exempted financial or payment service of any kind in any jurisdiction. Any terminology used in this whitepaper, on the website, or within the app is intended only as a basic reference, without any effective or legal meaning of the same terms in a regulated and/or financial environment.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/technology"
+  }
+}
