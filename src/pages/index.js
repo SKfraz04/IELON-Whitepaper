@@ -12,7 +12,7 @@ function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
 
   useEffect(() => {
-    window.location.href = '/docs/intro';
+    window.location.href = '/docs/Introduction';
   }, []);
   return (
     <div className={( styles.heroBanner)}>
